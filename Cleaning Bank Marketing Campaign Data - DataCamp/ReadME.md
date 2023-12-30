@@ -1,4 +1,4 @@
-# <p align="left" style="margin-top: 0px;"> Designing a Bank Marketing Database
+# <p align="left" style="margin-top: 0px;"> Cleaning Bank Marketing Campaign Data
 
 *This **Data Engineering** project involves creating a comprehensive database to store and manage customer information for a bank's marketing campaigns.*
 
