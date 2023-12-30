@@ -1,10 +1,5 @@
 # <p align="left" style="margin-top: 0px;"> Designing a Bank Marketing Database
 
-![piggy_bank](piggy_bank.jpg)
-
-<br>
-
----
 *This **Data Engineering** project involves creating a comprehensive database to store and manage customer information for a bank's marketing campaigns.*
 
 <br>
